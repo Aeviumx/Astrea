@@ -77,6 +77,19 @@ The goal isn't just another chatbot — it's an AI companion that actually **rem
 ### ✦ Stack
 
 `Python` · `PostgreSQL` · `pgvector` · `Vertex AI` · `Obsidian`
+### ✦ Roadmap
+
+- [x] Long-term memory
+- [x] Semantic memory search
+- [x] Persistent personality
+- [x] PostgreSQL + pgvector storage
+- [x] Obsidian knowledge vault
+- [ ] Voice interaction
+- [ ] Desktop interface
+- [ ] Autonomous tool usage
+- [ ] Astrea v1.0
+
+> Astrea is still evolving.
 
 ---
 
