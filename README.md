@@ -64,7 +64,7 @@ The goal isn't just another chatbot — it's an AI companion that actually **rem
                      ┌────────────┐
                      │  Response  │
                      └────────────┘
-
+```
 ### ✦ Stack
 
 `Python` · `PostgreSQL` · `pgvector` · `Vertex AI` · `Obsidian`
