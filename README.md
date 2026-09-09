@@ -39,6 +39,31 @@ The goal isn't just another chatbot — it's an AI companion that actually **rem
 - 🛠️ **Tools** — can interact with external services and systems
 - 📚 **Knowledge vault** — structured personal knowledge and notes
 - 🔊 **Voice** — natural voice interaction *(in development)*
+- ### ✦ How Astrea works
+
+```text
+                    ┌─────────────┐
+                    │     You     │
+                    └──────┬──────┘
+                           │
+                           ▼
+                    ┌─────────────┐
+                    │   Astrea    │
+                    │ Personality │
+                    └──────┬──────┘
+                           │
+             ┌─────────────┼─────────────┐
+             ▼             ▼             ▼
+      ┌────────────┐ ┌────────────┐ ┌────────────┐
+      │   Memory   │ │   Tools    │ │ Knowledge  │
+      │ PostgreSQL │ │  Services  │ │  Obsidian  │
+      │ + pgvector │ │    APIs    │ │   Vault    │
+      └─────┬──────┘ └─────┬──────┘ └─────┬──────┘
+            └───────────────┼───────────────┘
+                            ▼
+                     ┌────────────┐
+                     │  Response  │
+                     └────────────┘
 
 ### ✦ Stack
 
