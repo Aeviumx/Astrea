@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./astrea-banner.png" width="100%" alt="Astrea — Personal AI Companion">
+  <img src="./Astrea-banner.png" width="100%" alt="Astrea — Personal AI Companion">
 </p> 
 <div align="center">
 
