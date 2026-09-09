@@ -65,6 +65,15 @@ The goal isn't just another chatbot — it's an AI companion that actually **rem
                      │  Response  │
                      └────────────┘
 ```
+### ✦ Astrea in action
+
+> A glimpse of Astrea running with memory, personality and context.
+
+<p align="center">
+  <img src="./assets/astrea-demo.gif" width="900" alt="Astrea demo">
+</p>
+
+<sub>More demos coming as Astrea evolves.</sub>
 ### ✦ Stack
 
 `Python` · `PostgreSQL` · `pgvector` · `Vertex AI` · `Obsidian`
